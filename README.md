@@ -1,4 +1,4 @@
-### Hi there 👋
+# Halo semua! 👋
 
 Perkenalkan nama saya **Tiaranisa Rabi'ah Sridewi**.<br>
 
