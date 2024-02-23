@@ -10,7 +10,7 @@ Saya mahasiswi semester 6 di Universitas Gunadarma.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/tiaranisa-rabi-ah-s-9223442b2/)ku ya.
 
-### Github Statistic
+///### Github Statistic
 <p align="left">
 <a href="https://github.com/tiaranisarsd">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
