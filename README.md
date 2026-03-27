@@ -2,8 +2,6 @@
 
 Perkenalkan nama saya **Tiaranisa Rabi'ah Sridewi**.<br>
 
-Saya mahasiswi semester 7 di Universitas Gunadarma.<br>
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/tiaranisa-rabi-ah-sridewi-9223442b2/)ku ya.
 
 <p align="left">
